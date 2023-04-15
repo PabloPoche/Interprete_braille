@@ -2,7 +2,7 @@
 Lenguaje: Python.\
 Especialidad: Analytic.
 
-![Analytic banner](Info/braillee.jpg)
+![Analytic banner](Info/braille.jpg)
 
 # Traductor Braille.
 Un Flash Crash es un evento muy poco frecuente que se da en los mercados financieros en el que un activo, en este caso una criptomoneda, cae rápidamente de valor
@@ -18,7 +18,7 @@ Desde la pantalla de inicio se invita al usuario a ingresar la criptomoneda a mo
 de 1 minuto(Trending).\
 -A modo de prueba(test) durante el trending de la criptomoneda es posible forzar su flash crash pulsando la letra (t).
 
-![Juego banner](/trending.jpg)
+![Analytic banner](Info/braillee.jpg)
 
 
 # Salida del sistema.
