@@ -4,7 +4,7 @@ Especialidad: Analytic.
 
 
 
- ![IoT banner](info/braille.jpg)
+ ![IoT banner](Info/braille.jpg)
 
 
 
