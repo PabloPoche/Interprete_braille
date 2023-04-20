@@ -4,11 +4,8 @@ Especialidad: Analytic.
 
 ![Analytic banner](Info/braille.jpg)
 
-# Traductor Braille.
-Un Flash Crash es un evento muy poco frecuente que se da en los mercados financieros en el que un activo, en este caso una criptomoneda, cae rápidamente de valor
-(caída de más del 1% en menos de 1 minuto).\
-La aplicación permite monitorear el precio de una determinada criptomoneda y en caso de detectar un flash crash de la misma se lo notifica al usuario vía SMS,
-registra el evento completo(minuto previo y posterior al evento) en una BD y posibilita exportarlo a una archivo .csv para un posterior análisis(Data Analytic). 
+# Interprete Braille.
+  El braille es un sistema de lectura y escritura táctil pensado para personas ciegas, el mismo se basa en la presencia o ausencia de puntos para la codificación de los símbolos. Mediante seis puntos, también denominado signo generador, se pueden obtener hasta 64 combinaciones diferentes y la presencia o ausencia de punto en cada posición es quien determina de qué letra del alfabeto se trata.  
 
 [![](https://markdown-videos.deta.dev/youtube/JQS-9QosLnw)](https://youtu.be/JQS-9QosLnw)
 
