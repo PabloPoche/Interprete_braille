@@ -10,7 +10,7 @@ Especialidad: Analytic.
 ![Analytic banner](Info/braillee.jpg)
 
 # Descripción de la aplicación.
-La aplicación fue desarrollada para utilizar la cámara frontal de un celular (modo horizontal) como scanner de un texto en braille. Una vez focalizado el mismo, presionado TRADUCIR se realiza la captura e inicia el proceso de traducción, al finalizar, el texto traducido aparecerá en pantalla junto con su pronunciación.
+La aplicación fue desarrollada para utilizar la cámara frontal de un celular (modo horizontal) como scanner de un texto en braille. Una vez focalizado el mismo, presionado TRADUCIR se realiza la captura e inicia el proceso de traducción, al finalizar, el texto traducido aparecerá en pantalla junto con su pronunciación.\
 Se adjunta el siguiente video a modo ilustrativo: 
 
 [![](https://markdown-videos.deta.dev/youtube/JQS-9QosLnw)](https://youtu.be/JQS-9QosLnw)
