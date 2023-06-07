@@ -13,6 +13,7 @@ Especialidad: Analytic.
 La aplicación(app.py) fue desarrollada para utilizar la cámara frontal de un celular (modo horizontal) como scanner de un texto en braille. Una vez focalizado el mismo, presionado TRADUCIR se realiza la captura e inicia el proceso de traducción, al finalizar, el texto traducido aparecerá en pantalla junto con su pronunciación.\
 Se adjunta el siguiente video a modo ilustrativo: 
 
+[![](https://markdown-videos.deta.dev/youtube/JQS-9QosLnw)](https://youtu.be/JQS-9QosLnw)
 [![](https://markdown-videos.deta.dev/youtube/E2M8RHuRBIY)](https://youtu.be/E2M8RHuRBIY)
 
 
