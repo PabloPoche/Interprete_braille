@@ -14,7 +14,6 @@ La aplicación(app.py) fue desarrollada para utilizar la cámara frontal de un c
 Se adjunta el siguiente video a modo ilustrativo: 
 
 [![Alt text](https://img.youtube.com/vi/E2M8RHuRBIY/0.jpg)](https://www.youtube.com/watch?v=E2M8RHuRBIY)
-#[![](https://markdown-videos.deta.dev/youtube/E2M8RHuRBIY)](https://youtu.be/E2M8RHuRBIY)
 
 
 # Nota.
